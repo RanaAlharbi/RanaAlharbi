@@ -23,7 +23,6 @@ I enjoy learning new technologies, improving performance, and continuously refin
 - 📱 Develop cross-platform mobile apps using Flutter & Dart  
 - 🔗 Integrate APIs and Backend-as-a-Service (Supabase)  
 - 🧪 Test and debug APIs using Postman  
-- 🎨 Implement UI from Figma designs with pixel-perfect accuracy  
 - 🧩 Manage application state using Bloc, Cubit, and local state  
 - 🚀 Prepare apps for release on Google Play and Apple App Store
 
@@ -75,7 +74,6 @@ I enjoy learning new technologies, improving performance, and continuously refin
 ## 🧱 Architecture & Development Practices
 
 - Clean Architecture (Data / Domain / Presentation layers)
-- Repository Pattern
 - Dependency Injection
 - Bloc & Cubit State Management
 - RESTful API Integration
@@ -97,7 +95,7 @@ I enjoy learning new technologies, improving performance, and continuously refin
 ## 🌱 Goals
 
 - Become a Full-Stack Mobile Developer  
-- Contribute to open-source Flutter packages  
+- Contribute to Flutter packages  
 - Build developer tools and reusable UI components  
 - Grow a strong technical portfolio with real-world projects  
 
