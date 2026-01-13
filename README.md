@@ -17,39 +17,61 @@ Languages
 - Dart
 - SQL
 
-## Frameworks & Tools
-- Flutter
-- Supabase
-- Git & GitHub
-- Postman
-- Figma
-- Unreal Engine 5
+## 🚀 Tech Stack & Tools
 
-## Architecture & Practices
-- Clean Architecture
-- State Management (Bloc, Cubit, local state)
-- RESTful API Integration
-- Database Design Basics
+<p align="left">
+  <!-- Languages -->
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="SQL"/>
+  </a>
 
-## Current Focus
+  <!-- Frameworks -->
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/>
+  </a>
 
-- Building production-ready Flutter applications
-- Publishing apps to Google Play and Apple App Store
+  <!-- Backend / BaaS -->
+  <a href="https://supabase.com" target="_blank">
+    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" height="40" alt="Supabase"/>
+  </a>
 
-## Goals
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+  </a>
 
-- Become a full-stack mobile developer
+  <!-- Game Dev -->
+  <a href="https://www.unrealengine.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="40" height="40" alt="Unreal Engine 5"/>
+  </a>
+</p>
 
-- Contribute to open-source projects
 
-- Build and publish useful developer tools and packages
+## 📫 Contact Me
 
-- Grow a strong technical portfolio
+<p align="left">
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/>
+  </a>
 
-Contact
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
 
-GitHub: https://github.com/your-username
+  <a href="mailto:your-email@example.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email"/>
+  </a>
+</p>
 
-LinkedIn: https://linkedin.com/in/your-profile
-
-Email: your-email@example.com
