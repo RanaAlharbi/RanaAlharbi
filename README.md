@@ -16,19 +16,6 @@ I am a programmer and mobile application developer with an Information Systems b
 
 I enjoy learning new technologies, improving performance, and continuously refining code quality and app structure.
 
----
-
-## 🛠 What I Do
-
-- 📱 Develop cross-platform mobile apps using Flutter & Dart  
-- 🔗 Integrate APIs and Backend-as-a-Service (Supabase)  
-- 🧪 Test and debug APIs using Postman  
-- 🧩 Manage application state using Bloc, Cubit, and local state  
-- 🚀 Prepare apps for release on Google Play and Apple App Store
-
----
-
-## 🚀 Tech Stack & Tools
 ## 💻 Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -45,6 +32,6 @@ I enjoy learning new technologies, improving performance, and continuously refin
 ---
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rana-alharbi-1b2149282/))
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ranaalherabi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RanaAlharbi/)
