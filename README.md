@@ -71,48 +71,9 @@ I enjoy learning new technologies, improving performance, and continuously refin
 
 ---
 
-## 🧱 Architecture & Development Practices
-
-- Clean Architecture (Data / Domain / Presentation layers)
-- Dependency Injection
-- Bloc & Cubit State Management
-- RESTful API Integration
-- Basic Database Design & SQL Queries
-- Error Handling & Logging
-- Performance Optimization
-
 ---
+## 🌐 Socials
 
-## 🎯 Current Focus
-
-- Building scalable Flutter applications with clean code structure  
-- Advanced state management and architecture patterns  
-- Backend integration using Supabase  
-- Preparing apps for production and store deployment  
-
----
-
-## 🌱 Goals
-
-- Become a Full-Stack Mobile Developer  
-- Contribute to Flutter packages  
-- Build developer tools and reusable UI components  
-- Grow a strong technical portfolio with real-world projects  
-
----
-
-## 📫 Contact Me
-
-<p align="left">
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:your-email@example.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
