@@ -1,21 +1,33 @@
-# Hi, I'm Rana Alharbi- Frontend developer 👋
+# Hi, I'm Rana Alharbi — Frontend & Mobile Developer 👋
 
-## About Me
+🎯 Frontend Developer specialized in **Flutter**, passionate about building scalable, high-quality, and user-centered applications.  
+I focus on clean architecture, maintainable code, and smooth user experiences across mobile platforms.
 
-I am a programmer and mobile application developer with a strong interest in building scalable, user-focused applications. I work across multiple domains including mobile development, web systems, and I enjoy learning new technologies and applying clean architecture principles in real projects.
+---
 
-## What I Do
-- Mobile App Development using Flutter & Dart
-- Backend & BaaS integration using Supabase and REST APIs
-- API testing and debugging using Postman
+## 👩‍💻 About Me
 
+I am a programmer and mobile application developer with an Information Systems background and strong interest in:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-## Tech Stack
-Languages
-- Dart
-- SQL
+- Building production-ready mobile applications using Flutter & Dart  
+- Integrating backend services using Supabase and RESTful APIs  
+- Applying **Clean Architecture** to create scalable and testable codebases  
+- Turning UI/UX designs into high-performance, responsive interfaces  
+
+I enjoy learning new technologies, improving performance, and continuously refining code quality and app structure.
+
+---
+
+## 🛠 What I Do
+
+- 📱 Develop cross-platform mobile apps using Flutter & Dart  
+- 🔗 Integrate APIs and Backend-as-a-Service (Supabase)  
+- 🧪 Test and debug APIs using Postman  
+- 🎨 Implement UI from Figma designs with pixel-perfect accuracy  
+- 🧩 Manage application state using Bloc, Cubit, and local state  
+- 🚀 Prepare apps for release on Google Play and Apple App Store
+
+---
 
 ## 🚀 Tech Stack & Tools
 
@@ -58,6 +70,38 @@ Languages
   </a>
 </p>
 
+---
+
+## 🧱 Architecture & Development Practices
+
+- Clean Architecture (Data / Domain / Presentation layers)
+- Repository Pattern
+- Dependency Injection
+- Bloc & Cubit State Management
+- RESTful API Integration
+- Basic Database Design & SQL Queries
+- Error Handling & Logging
+- Performance Optimization
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable Flutter applications with clean code structure  
+- Advanced state management and architecture patterns  
+- Backend integration using Supabase  
+- Preparing apps for production and store deployment  
+
+---
+
+## 🌱 Goals
+
+- Become a Full-Stack Mobile Developer  
+- Contribute to open-source Flutter packages  
+- Build developer tools and reusable UI components  
+- Grow a strong technical portfolio with real-world projects  
+
+---
 
 ## 📫 Contact Me
 
@@ -74,4 +118,3 @@ Languages
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email"/>
   </a>
 </p>
-
