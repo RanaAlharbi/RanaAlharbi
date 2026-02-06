@@ -1,9 +1,5 @@
 # Hi, I'm Rana Alharbi Frontend Developer 
 
-Specialized in Flutter, passionate about building mobile applications. I use Clean Architecture and write clean code.
-
----
-
 ## About Me
 
 I am a programmer and mobile application developer with Information Systems degree and strong interest in:
