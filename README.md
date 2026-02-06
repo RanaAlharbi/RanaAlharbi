@@ -1,7 +1,5 @@
 # Hi, I'm Rana Alharbi Frontend Developer 
 
-## About Me
-
 I am a programmer and mobile application developer with Information Systems degree and strong interest in:
 
 - Building mobile applications using Flutter & Dart  
