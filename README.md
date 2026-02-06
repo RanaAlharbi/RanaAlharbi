@@ -1,22 +1,22 @@
-# Hi, I'm Rana Alharbi — Frontend & Mobile Developer 👋
+# Hi, I'm Rana Alharbi Frontend Developer 
 
-🎯 Frontend Developer specialized in **Flutter**, passionate about building scalable, high-quality, and user-centered applications.  
-I focus on clean architecture, maintainable code, and smooth user experiences across mobile platforms.
+specialized in **Flutter**, passionate about building mobile apps.  
+I use clean architecture, write clean code.
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I am a programmer and mobile application developer with an Information Systems background and strong interest in:
+I am a programmer and mobile application developer with Information Systems degree and strong interest in:
 
-- Building production-ready mobile applications using Flutter & Dart  
-- Integrating backend services using Supabase and RESTful APIs  
-- Applying **Clean Architecture** to create scalable and testable codebases  
-- Turning UI/UX designs into high-performance, responsive interfaces  
+- Building mobile applications using Flutter & Dart  
+- Integrating Supabase and RESTful APIs  
+- Applying **Clean Architecture** to create scalable apps. 
+- Turning UI/UX designs into responsive interfaces  
 
-I enjoy learning new technologies, improving performance, and continuously refining code quality and app structure.
+I enjoy learning new technologies, improving performance.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
