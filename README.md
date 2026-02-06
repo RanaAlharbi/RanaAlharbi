@@ -7,8 +7,6 @@ I am a programmer and mobile application developer with Information Systems degr
 - Applying **Clean Architecture** to create scalable apps. 
 - Turning UI/UX designs into responsive interfaces  
 
-I enjoy learning new technologies, improving performance.
-
 ## Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
