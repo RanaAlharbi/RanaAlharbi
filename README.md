@@ -21,10 +21,16 @@ I am a programmer and mobile application developer with Information Systems degr
 
 
 
-## Contribution Graph
+## GitHub Analytics
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RanaAlharbi&theme=github-dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanaAlharbi&theme=github_dark" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RanaAlharbi&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RanaAlharbi&theme=github_dark&utcOffset=3" />
+</p>
 ---
 ## 🌐 Socials
 
