@@ -20,6 +20,11 @@ I am a programmer and mobile application developer with Information Systems degr
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 
+
+## Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RanaAlharbi&theme=github-dark)
+
 ---
 ## 🌐 Socials
 
